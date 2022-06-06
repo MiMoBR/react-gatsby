@@ -3,7 +3,9 @@ const path = require("path");
 module.exports = {
   siteMetadata: {
     title: `MiMoBR`,
-    siteUrl: `https://www.yourdomain.tld`,
+    description: `Description Here`,
+    author: `@iamreinaldonani`,
+    siteUrl: `https://www.mimobr.com`,
   },
   plugins: [
     "gatsby-plugin-styled-components",
@@ -26,12 +28,11 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: `gatsby-source-filesystem`,
       options: {
-        name: "images",
-        path: "./src/assets/images/png/",
+        name: `images`,
+        path: `${__dirname}/src/assets/images`,
       },
-      __key: "images",
     },
     {
       resolve: "gatsby-source-filesystem",

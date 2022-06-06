@@ -1,5 +1,5 @@
 import React from "react";
-import { navigate } from "gatsby";
+// import { navigate } from "gatsby";
 
 // import { isSignedIn } from '@services/auth/service-sign-experition'
 // import { verifyPermission } from '@services/auth/verify'

@@ -5,7 +5,9 @@ const MainPublic = () => {
   return (
     <div>
       <p>dentro do Route</p>
-      <LinTest to="/form">Form</LinTest>
+      <LinTest to="/">Home</LinTest>
+      <LinTest to="/form/">Form</LinTest>
+      <LinTest to="/css/">CSS</LinTest>
     </div>
   );
 };

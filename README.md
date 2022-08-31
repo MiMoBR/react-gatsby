@@ -15,7 +15,7 @@ Access the folder with new project
 
 3 - GATSBY
 Create a basic project and share on this file
-npm init gastby
+npm init gatsby
 yarn
 yarn start
 

@@ -20,7 +20,7 @@
     "antd": "^4.20.7",
     "babel-plugin-styled-components": "^2.0.2",
     "gatsby": "^4.6.2",
-    "gatsby-plugin-google-analytics": "^4.6.0",
+    "gatsby-plugin-google-tagmanager": "^4.23.0",
     "gatsby-plugin-image": "^2.6.0",
     "gatsby-plugin-manifest": "^4.6.0",
     "gatsby-plugin-mdx": "^3.6.0",

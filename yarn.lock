@@ -5407,13 +5407,12 @@ gatsby-page-utils@^2.6.0:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-google-analytics@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-4.6.0.tgz#0899703cbf59141450d39a6e608d8054e4952b86"
-  integrity sha512-HjWfYDwCKHs3k5RMvrlrTzJmEtyEnT573npiEOezBvy4MSHUhWRb7phNeHGFKcE7+lDwDfUXxrZrb8L8T6GvKw==
+gatsby-plugin-google-tagmanager@^4.23.0:
+  version "4.23.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-tagmanager/-/gatsby-plugin-google-tagmanager-4.23.0.tgz#11640253b9fd71d996843ac6033ee4ed37ac42c4"
+  integrity sha512-T5jt9xCvi/+5xXiOQkBIxZpVZBSJ2H0kXiVl0+1xUWeewrn155NgXeVyLxdVAVCnKQrQ9cwfyVcOS4G51m+j5g==
   dependencies:
     "@babel/runtime" "^7.15.4"
-    minimatch "3.0.4"
     web-vitals "^1.1.2"
 
 gatsby-plugin-image@^2.6.0:
